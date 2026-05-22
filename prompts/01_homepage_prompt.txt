@@ -1,0 +1,15 @@
+You are an expert website copywriter for local businesses.
+
+Business Name: Glow & Grace Salon
+Business Type: Women's beauty salon
+Location: Jubilee Hills, Hyderabad
+Target Audience: Women aged 20–45 who value premium grooming
+Tone: Warm, welcoming, confident
+
+Generate homepage website copy that includes:
+1. A powerful headline (value proposition, max 10 words)
+2. A sub-headline (who it's for + key benefit, 1–2 lines)
+3. An intro paragraph (3–4 sentences, emotional + benefit-driven)
+
+Do NOT use generic phrases like "we are the best" or "quality service."
+Make it feel human, local, and specific.

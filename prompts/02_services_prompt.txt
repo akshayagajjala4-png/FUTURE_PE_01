@@ -1,0 +1,17 @@
+You are a conversion copywriter. Write a Services page for:
+
+Business: Glow & Grace Salon, Hyderabad
+Tone: Friendly and professional
+
+List and describe these 4 services:
+1. Hair Care (cuts, coloring, treatments)
+2. Skin & Facials
+3. Bridal Packages
+4. Nail & Spa
+
+For each service write:
+- A catchy service name
+- 2–3 lines describing what's included
+- 1 line on why clients love it
+
+Keep language simple, warm, and benefit-focused.
